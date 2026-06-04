@@ -7,8 +7,8 @@
 > $x$ 年打A $\frac{x}{3}$ 场空
 
 
-### 兴趣范围 🌟
+### Interesting 🌟
 
-- 并行计算
-- 编译原理
-- 计算机图形学
+- HPC
+- Compiling
+- Computer Graphics
